@@ -1,0 +1,66 @@
+h1{
+	text-align: center;
+	color: blue}
+h2{
+	color: green;
+}
+
+.box{
+     width: 200px;
+     height: 200px;
+     background-color: blue;
+     padding: 10px;
+}
+.blue{
+	 background-color: blue;
+	 margin-bottom: 25px;
+	 border: 5px solid red;
+}
+.green{
+	 background-color: green;
+	 margin-top: 25px;
+}
+p{
+	display: inline-block;
+}
+
+.header{
+	height: 100px;
+	background-color: skyblue;
+}
+.container{
+	overflow:hidden;
+/*border: 10px solid black ;*/
+}
+.blog{
+background-color:limegreen ;
+height: 200px;
+width: 60%;
+float: left;
+}
+.contract{
+background-color:darkgreen ;
+height: 200px;	
+width: 40%;
+float: right;
+}
+.item{height: 200px;
+	width: 33.3333%;
+float: left;
+}
+.item2{
+	float: left;
+	height: 150px;
+	width: 25%;
+}
+
+.aqua{background-color:aqua; }
+.pink{background: pink}
+.grey{background: grey;}
+.red{background-color: red}
+.yellow{background-color: yellow}
+.footer{
+	height: 200px;
+	background-color: darkred;
+/*	clear: both;*/
+}
